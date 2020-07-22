@@ -1,3 +1,6 @@
+Colour Detection using Pandas & OpenCV
+
+
 TO RUN THIS FILE.......................................
 
 1. open the command prompt
